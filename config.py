@@ -1,0 +1,2 @@
+BOT_TOKEN = ""
+BOT_ACTIVITY_TEXT = "за вами"
